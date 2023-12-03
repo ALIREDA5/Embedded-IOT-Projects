@@ -47,7 +47,6 @@ int main()
 			system("CLS");
 			ADD_Student_Manually();
 			break;
-
 		case 2:
 			Delete_student();
 			break;
