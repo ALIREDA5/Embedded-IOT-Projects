@@ -13,7 +13,7 @@ extern int i=0;
 void ADD_Student_Manually()
 {
 
-	DPrintf("\n\t Enter First Name : ");
+	DPrintf("\n\t Enter full Name : ");
 	gets(arr[i].fname);
 	DPrintf("\n\t Enter Gender : ");
 	scanf("%c", &(arr[i].Gender));
