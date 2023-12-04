@@ -2,7 +2,7 @@
  * Add_new_student.c
  *
  *  Created on: Dec 3, 2023
- *      Author: Ali Reda
+ *      Author: Ahmed fareed
  */
 
 #include "extension.h"
